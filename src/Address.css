@@ -1,0 +1,27 @@
+body{
+    background-color: lightgray;
+}
+.App{
+    display: flex;
+    /* justify-content: center; */
+}
+.AddressForm{
+    max-width: 250px;
+    margin-left: 5em;
+    margin-right: 15em;
+}
+.form-label{
+    display: flex;
+}
+.AddBody{
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+}
+.Address-card{
+    background-color: rgba(118, 178, 86, 0.515);
+}
+.dummy-add{
+    max-width: 250px;
+    height: 300px;
+}
